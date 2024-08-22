@@ -15,7 +15,7 @@
         maxTotal="10" maxIdle="10" maxWaitMillis="10000"
         username="senac" password="UzbSVTBqz7PaR5FhSuctTJfuJIeWKo3y"
         driverClassName="org.postgresql.Driver"
-        url="jdbc:postgresql://dpg-cr2i2n2j1k6c73e8bejg-a.oregon-postgres.render.com:5432/exemplos_ls27"
+        url="jdbc:postgresql://dpg-cr3ibfrqf0us73e87e6g-a.oregon-postgres.render.com:5432/exemplos_ls27"
         
     />
 </Context>
